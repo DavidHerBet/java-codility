@@ -78,6 +78,9 @@ Lesson 9 - Maximum slice problem
 - [MaxProfit](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson9/MaxProfit.java) - [100%](https://app.codility.com/demo/results/training6B6EKQ-M54/)
 - [MaxSliceSum](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson9/MaxSliceSum.java) - [100%](https://app.codility.com/demo/results/trainingBSTWWT-WHU/)
 
+Lesson 10 - Prime and composite numbers
+- [MinPerimeterRectangle](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson10/MinPerimeterRectangle.java) - [100%](https://app.codility.com/demo/results/trainingCMHQYT-QCB/)
+
 Copyright and License
 ============
 
