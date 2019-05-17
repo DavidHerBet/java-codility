@@ -7,7 +7,7 @@ import java.util.Arrays;
  * Category: PAINLESS
  * Level: EASY
  * Correctness:	100%
- * Performance:	Not assessed
+ * Performance:	100%
  * Task score:	100%
  */
 public class PermMissingElem {

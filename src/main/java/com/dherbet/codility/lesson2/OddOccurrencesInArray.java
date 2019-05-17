@@ -9,7 +9,7 @@ import java.util.Set;
  * Category: PAINLESS
  * Level: EASY
  * Correctness:	100%
- * Performance:	Not assessed
+ * Performance:	100%
  * Task score:	100%
  */
 public class OddOccurrencesInArray {
