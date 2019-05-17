@@ -64,6 +64,9 @@ Lesson 1 - Iterations
 Lesson 2 - Arrays
 - [CyclicRotation](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson2/CyclicRotation.java) - [100%](https://app.codility.com/demo/results/trainingJQJT35-MD5/)
 
+Lesson 3 - Time Complexity
+- [FrogJmp](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson3/FrogJmp.java) - [100%](https://app.codility.com/demo/results/training3J5JCD-3Q2/)
+
 Copyright and License
 ============
 

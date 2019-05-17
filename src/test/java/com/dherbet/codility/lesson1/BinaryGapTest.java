@@ -1,12 +1,18 @@
 package com.dherbet.codility.lesson1;
 
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
 public class BinaryGapTest {
 
-    private static final BinaryGap binaryGap = new BinaryGap();
+    private static BinaryGap binaryGap;
+
+    @BeforeClass
+    public static void setUp() {
+        binaryGap = new BinaryGap();
+    }
 
     @Test
     public void problemProvidedInputs() {

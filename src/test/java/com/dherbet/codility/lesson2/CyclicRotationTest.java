@@ -1,12 +1,18 @@
 package com.dherbet.codility.lesson2;
 
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;
 
 public class CyclicRotationTest {
 
-    private static final CyclicRotation cyclicRotation = new CyclicRotation();
+    private static CyclicRotation cyclicRotation;
+
+    @BeforeClass
+    public static void setUp() {
+        cyclicRotation = new CyclicRotation();
+    }
 
     @Test
     public void problemProvidedInputs() {
