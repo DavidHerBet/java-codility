@@ -62,6 +62,7 @@ Lesson 1 - Iterations
 - [BinaryGap](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson1/BinaryGap.java) - [100%](https://app.codility.com/demo/results/trainingRGMR4Z-2RY/)
 
 Lesson 2 - Arrays
+- [OddOccurrencesInArray](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson2/OddOccurrencesInArray.java) - [100%](https://app.codility.com/demo/results/trainingDYWMVE-T8R/)
 - [CyclicRotation](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson2/CyclicRotation.java) - [100%](https://app.codility.com/demo/results/trainingJQJT35-MD5/)
 
 Lesson 3 - Time Complexity
