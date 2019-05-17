@@ -80,6 +80,7 @@ Lesson 9 - Maximum slice problem
 
 Lesson 10 - Prime and composite numbers
 - [MinPerimeterRectangle](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson10/MinPerimeterRectangle.java) - [100%](https://app.codility.com/demo/results/trainingCMHQYT-QCB/)
+- [Peaks](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson10/Peaks.java) - [100%](https://app.codility.com/demo/results/trainingTUVKHF-ZZH/)
 
 Copyright and License
 ============
