@@ -82,6 +82,10 @@ Lesson 10 - Prime and composite numbers
 - [MinPerimeterRectangle](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson10/MinPerimeterRectangle.java) - [100%](https://app.codility.com/demo/results/trainingCMHQYT-QCB/)
 - [Peaks](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson10/Peaks.java) - [100%](https://app.codility.com/demo/results/trainingTUVKHF-ZZH/)
 
+Lesson 12 - Euclidean algorithm
+- [ChocolatesByNumbers](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson12/ChocolatesByNumbers.java) - [100%](https://app.codility.com/demo/results/trainingQY36WV-8GR/)
+
+
 Copyright and License
 ============
 
