@@ -67,6 +67,9 @@ Lesson 2 - Arrays
 Lesson 3 - Time Complexity
 - [FrogJmp](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson3/FrogJmp.java) - [100%](https://app.codility.com/demo/results/training3J5JCD-3Q2/)
 
+Lesson 4 - Counting Elements
+- [PermCheck](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson4/PermCheck.java) - [100%](https://app.codility.com/demo/results/trainingRXMW7X-9QA/)
+
 Copyright and License
 ============
 
