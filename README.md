@@ -74,6 +74,9 @@ Lesson 4 - Counting Elements
 Lesson 8 - Leader
 - [Dominator](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson8/Dominator.java) - [100%](https://app.codility.com/demo/results/training7MN45K-3XZ/)
 
+Lesson 9 - Maximum slice problem
+- [MaxProfit](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson9/MaxProfit.java) - [100%](https://app.codility.com/demo/results/training6B6EKQ-M54/)
+
 Copyright and License
 ============
 
