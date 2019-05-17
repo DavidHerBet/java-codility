@@ -11,8 +11,9 @@ package com.dherbet.codility.lesson1;
 public class BinaryGap {
 
     public int solution(int N) {
+        System.out.println("N = " + N);
         String binaryRepresentation = Integer.toBinaryString(N);
-
+        System.out.println("Binary representation of " + N + " = " + binaryRepresentation);
         boolean oneIsFound = false;
         int binaryGap = 0;
         int sequenceBinaryGap = 0;
@@ -32,6 +33,8 @@ public class BinaryGap {
                 sequenceBinaryGap += 1;
             }
         }
+
+        System.out.println("Binary gap = " + binaryGap);
         return binaryGap;
     }
 
