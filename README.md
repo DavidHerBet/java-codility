@@ -69,6 +69,7 @@ Lesson 3 - Time Complexity
 
 Lesson 4 - Counting Elements
 - [PermCheck](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson4/PermCheck.java) - [100%](https://app.codility.com/demo/results/trainingRXMW7X-9QA/)
+- [MissingIntegers](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson4/MissingIntegers.java) - [100%](https://app.codility.com/demo/results/trainingQKV5G6-8SR/)
 
 Copyright and License
 ============
