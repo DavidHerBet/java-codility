@@ -30,7 +30,7 @@ Every solution has description according to this example:
  */
 public class BinaryGap {
 
-    private int solution(int A) {
+    public int solution(int A) {
         // ... some java code
     }
 
@@ -58,8 +58,11 @@ This repository is provided in Maven form to unit test some possible scenarios w
 
 Codility Lessons
 ============
-Lesson 1 Iterations
+Lesson 1 - Iterations
 - [BinaryGap](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson1/BinaryGap.java) - [100%](https://app.codility.com/demo/results/trainingRGMR4Z-2RY/)
+
+Lesson 2 - Arrays
+- [CyclicRotation](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson2/CyclicRotation.java) - [100%](https://app.codility.com/demo/results/trainingJQJT35-MD5/)
 
 Copyright and License
 ============
