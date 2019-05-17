@@ -76,6 +76,7 @@ Lesson 8 - Leader
 
 Lesson 9 - Maximum slice problem
 - [MaxProfit](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson9/MaxProfit.java) - [100%](https://app.codility.com/demo/results/training6B6EKQ-M54/)
+- [MaxSliceSum](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson9/MaxSliceSum.java) - [100%](https://app.codility.com/demo/results/trainingBSTWWT-WHU/)
 
 Copyright and License
 ============
