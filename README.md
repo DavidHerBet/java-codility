@@ -2,6 +2,7 @@
 Java solutions to **Codility Limited**: https://codility.com/ tasks from their lessons and challenges.
 
 Codility lessons: https://codility.com/programmers/lessons/
+
 Codility challenges: https://codility.com/programmers/challenges/
 
 Introduction
@@ -21,7 +22,8 @@ Every solution has description according to this example:
 ```java
 /**
  * CODILITY ANALYSIS: https://app.codility.com/demo/results/trainingQY36WV-8GR/
- * LEVEL: EASY
+ * Category: PAINLESS
+ * Level: EASY
  * Correctness:	100%
  * Performance:	100%
  * Task score:	100%
@@ -53,6 +55,11 @@ For performance tests, which include time constraints:
 Although we may not like very much to try these test cases, it is necessary to do so to ensure that our solution is correct.
 
 This repository is provided in Maven form to unit test some possible scenarios with JUnit.
+
+Codility Lessons
+============
+Lesson 1 Iterations
+- [BinaryGap](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson1/BinaryGap.java) - [100%](https://app.codility.com/demo/results/trainingRGMR4Z-2RY/)
 
 Copyright and License
 ============
