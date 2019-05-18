@@ -76,6 +76,9 @@ Lesson 4 - Counting Elements
 - [MaxCounters](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson4/MaxCounters.java) - [100%](https://app.codility.com/demo/results/trainingR57P83-SSS/)
 - [MissingIntegers](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson4/MissingIntegers.java) - [100%](https://app.codility.com/demo/results/trainingQKV5G6-8SR/)
 
+Lesson 5 - Prefix Sums
+- [PassingCars](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson5/PassingCars.java) - [100%](https://app.codility.com/demo/results/trainingJRU2JU-7JV/)
+
 Lesson 8 - Leader
 - [Dominator](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson8/Dominator.java) - [100%](https://app.codility.com/demo/results/training7MN45K-3XZ/)
 
