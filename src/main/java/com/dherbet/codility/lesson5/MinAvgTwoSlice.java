@@ -14,12 +14,10 @@ public class MinAvgTwoSlice {
 
 	public int solution(int[] A) {
 		System.out.println("A: " + Arrays.toString(A));
-		double[] prefix = new double[A.length];
 		double minValue = Integer.MAX_VALUE;
 		int startingPosition = 0;
 		for (int i = 0; i < A.length - 1; i++) {
 			double pairAverage = (double) (A[i] + A[i + 1]) / 2;
-			prefix[i] = pairAverage;
 			if (pairAverage < minValue) {
 				startingPosition = i;
 				minValue = pairAverage;
