@@ -80,6 +80,7 @@ Lesson 5 - Prefix Sums
 - [PassingCars](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson5/PassingCars.java) - [100%](https://app.codility.com/demo/results/trainingJRU2JU-7JV/)
 - [GenomicRangeQuery](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson5/GenomicRangeQuery.java) - [100%](https://app.codility.com/demo/results/training9APRD9-8A4/)
 - [MinAvgTwoSlice](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson5/MinAvgTwoSlice.java) - [100%](https://app.codility.com/demo/results/trainingCXHJDZ-D5D/)
+- [CountDiv](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson5/CountDiv.java) - [100%](https://app.codility.com/demo/results/training5988QS-WJ8/)
 
 Lesson 8 - Leader
 - [Dominator](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson8/Dominator.java) - [100%](https://app.codility.com/demo/results/training7MN45K-3XZ/)
