@@ -84,6 +84,7 @@ Lesson 5 - Prefix Sums
 
 Lesson 6 - Sorting
 - [Distinct](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson6/Distinct.java) - [100%](https://app.codility.com/demo/results/training8UDZ6K-2GB/)
+- [MaxProductOfThree](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson6/MaxProductOfThree.java) - [100%](https://app.codility.com/demo/results/trainingJ3T6HB-WJ8/)
 - [Triangle](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson6/Triangle.java) - [100%](https://app.codility.com/demo/results/trainingKA3EES-8GJ/)
 
 Lesson 8 - Leader
