@@ -90,6 +90,7 @@ Lesson 6 - Sorting
 
 Lesson 7 - Stacks and Queues
 - [Brackets](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson7/Brackets.java) - [100%](https://app.codility.com/demo/results/trainingW4W3MZ-WPF/)
+- [Fish](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson7/Fish.java) - [100%](https://app.codility.com/demo/results/trainingRQWT8G-S64/)
 
 Lesson 8 - Leader
 - [Dominator](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson8/Dominator.java) - [100%](https://app.codility.com/demo/results/training7MN45K-3XZ/)
