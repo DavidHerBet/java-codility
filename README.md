@@ -88,6 +88,9 @@ Lesson 6 - Sorting
 - [Triangle](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson6/Triangle.java) - [100%](https://app.codility.com/demo/results/trainingKA3EES-8GJ/)
 - [NumberOfDiscIntersections](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson6/NumberOfDiscIntersections.java) - [56%](https://app.codility.com/demo/results/trainingJ5WH5T-XQV/)
 
+Lesson 7 - Stacks and Queues
+- [Brackets](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson7/Brackets.java) - [100%](https://app.codility.com/demo/results/trainingW4W3MZ-WPF/)
+
 Lesson 8 - Leader
 - [Dominator](https://github.com/DavidHerBet/java-codility/blob/master/src/main/java/com/dherbet/codility/lesson8/Dominator.java) - [100%](https://app.codility.com/demo/results/training7MN45K-3XZ/)
 
